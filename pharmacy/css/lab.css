@@ -1,0 +1,84 @@
+
+body{
+    margin:0%;
+  }
+  
+  #container{
+    border: 2px solid black;
+  }
+  
+  #leftSection{
+    float: left;
+    width: 50%;
+    height: 50%;
+    background-color: rgb(246, 246, 249);
+  }
+  #leftSection table{
+    padding-top: 10px;
+  }
+  section{
+    padding:10px 10px;
+   }
+  
+  .main{
+    font-size:25px;
+    font-weight: bolder;
+  } 
+  
+  td{
+    padding:10px;
+    width: 80%;
+  }
+  
+  #firstSection input{
+    width:22vw;    
+    border:none;
+    border-bottom: 2px solid black;
+    line-height: 30pt;
+  }
+  
+  #secondSection input,select{
+    width:22vw;
+    border:none;
+    border-bottom: 2px solid black;
+    line-height: 30pt;
+  }
+  #district{
+    width:20vw;
+  }
+  #field input{
+    
+    width: 20%;
+  }
+  
+  #labImage #lab-test{
+    width:100%;
+    height: 50%;
+  } 
+  
+  #labImage{
+    margin-left:50%;
+    width:50%;
+    height: 50%;
+  }
+  
+  
+  #lastSection{
+    background-color: rgb(246, 246, 249)
+  }
+
+  #Submit{
+    margin-left:30%;
+  }
+
+  button{
+    
+    margin-left:10px;
+    margin-right: 10px;
+    padding:10px;
+    color:white;
+    background-color: rgba(3, 45, 95, 0.7);
+    cursor: pointer;
+    font-size: 15px;
+  
+  }
